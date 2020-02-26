@@ -1,0 +1,7 @@
+D:\CURSO_PATRONES_DISEÑO\Tareas\1\OBSERVER\Pattern.OBSERVER\Pattern.OBSERVER\bin\Debug\Pattern.OBSERVER.exe.config
+D:\CURSO_PATRONES_DISEÑO\Tareas\1\OBSERVER\Pattern.OBSERVER\Pattern.OBSERVER\bin\Debug\Pattern.OBSERVER.exe
+D:\CURSO_PATRONES_DISEÑO\Tareas\1\OBSERVER\Pattern.OBSERVER\Pattern.OBSERVER\bin\Debug\Pattern.OBSERVER.pdb
+D:\CURSO_PATRONES_DISEÑO\Tareas\1\OBSERVER\Pattern.OBSERVER\Pattern.OBSERVER\obj\Debug\Pattern.OBSERVER.csprojAssemblyReference.cache
+D:\CURSO_PATRONES_DISEÑO\Tareas\1\OBSERVER\Pattern.OBSERVER\Pattern.OBSERVER\obj\Debug\Pattern.OBSERVER.csproj.CoreCompileInputs.cache
+D:\CURSO_PATRONES_DISEÑO\Tareas\1\OBSERVER\Pattern.OBSERVER\Pattern.OBSERVER\obj\Debug\Pattern.OBSERVER.exe
+D:\CURSO_PATRONES_DISEÑO\Tareas\1\OBSERVER\Pattern.OBSERVER\Pattern.OBSERVER\obj\Debug\Pattern.OBSERVER.pdb
